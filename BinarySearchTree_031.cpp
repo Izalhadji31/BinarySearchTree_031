@@ -99,3 +99,6 @@ public:
 			preorder(ptr->rightchild);
 		}
 	}
+
+	void postorder(Node* ptr)
+	{
