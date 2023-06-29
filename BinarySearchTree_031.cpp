@@ -116,3 +116,6 @@ public:
 		}
 	}
 };
+
+int main()
+{
